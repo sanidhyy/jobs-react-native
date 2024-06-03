@@ -3681,14 +3681,14 @@ expo-updates-interface@~0.16.2:
   resolved "https://registry.yarnpkg.com/expo-updates-interface/-/expo-updates-interface-0.16.2.tgz#ad1ac2ca8ee5a8cc84052ea3c18a11da64da569b"
   integrity sha512-929XBU70q5ELxkKADj1xL0UIm3HvhYhNAOZv5DSk7rrKvLo7QDdPyl+JVnwZm9LrkNbH4wuE2rLoKu1KMgZ+9A==
 
-expo-updates@~0.25.14:
-  version "0.25.14"
-  resolved "https://registry.yarnpkg.com/expo-updates/-/expo-updates-0.25.14.tgz#d0838780d0fa91558df72ca0f8b25b02466da11c"
-  integrity sha512-taYa6Q/882MxPaMZEoU0Tr4Ivtq0B0XUmCgj7GcKv0pDDhB7vuQ4uxXhWYn5udX+nJM0KH+dtEVFNVyeucVArg==
+expo-updates@~0.25.15:
+  version "0.25.15"
+  resolved "https://registry.yarnpkg.com/expo-updates/-/expo-updates-0.25.15.tgz#d4d5ae7f5babad4331eb74cbd546eaf3329e112b"
+  integrity sha512-P38Qv2TxeEpUCvAEUR99VSpOXnliiDsvMwFqhTO+iA0ZBDMJ7YZ/Fy5U4L9h8IW8mPfFC9wrWZzWZBn129mpYQ==
   dependencies:
     "@expo/code-signing-certificates" "0.0.5"
-    "@expo/config" "~9.0.0"
-    "@expo/config-plugins" "~8.0.0"
+    "@expo/config" "~9.0.0-beta.0"
+    "@expo/config-plugins" "~8.0.0-beta.0"
     "@expo/fingerprint" "^0.8.0"
     "@expo/spawn-async" "^1.7.2"
     arg "4.1.0"
