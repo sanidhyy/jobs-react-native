@@ -1390,10 +1390,10 @@
     dotenv-expand "~11.0.6"
     getenv "^1.0.0"
 
-"@expo/fingerprint@^0.10.1":
-  version "0.10.1"
-  resolved "https://registry.yarnpkg.com/@expo/fingerprint/-/fingerprint-0.10.1.tgz#12055d425425884258b69e4cd6bbeed35fd2a6e8"
-  integrity sha512-0d0lniPAm6tOZinoj6d8JPozdeaYL12hNW2lZy76YaRRfBoAVGD1xwx6pilRumgKJGFL2SxOGnRoC4ZarZel4g==
+"@expo/fingerprint@^0.10.2":
+  version "0.10.2"
+  resolved "https://registry.yarnpkg.com/@expo/fingerprint/-/fingerprint-0.10.2.tgz#120a0d030dfa7b8c317cf5dc55379d06548e82f8"
+  integrity sha512-q75zb4AeB08efofCnEJIddS7kCe0TX8YjHSat204mq1RLUJjv2JAN1Zgyk5HW/4i8b/sMYst0HX+BLCtszb+2A==
   dependencies:
     "@expo/spawn-async" "^1.7.2"
     chalk "^4.1.2"
@@ -3743,15 +3743,15 @@ expo-updates-interface@~0.16.2:
   resolved "https://registry.yarnpkg.com/expo-updates-interface/-/expo-updates-interface-0.16.2.tgz#ad1ac2ca8ee5a8cc84052ea3c18a11da64da569b"
   integrity sha512-929XBU70q5ELxkKADj1xL0UIm3HvhYhNAOZv5DSk7rrKvLo7QDdPyl+JVnwZm9LrkNbH4wuE2rLoKu1KMgZ+9A==
 
-expo-updates@~0.25.20:
-  version "0.25.20"
-  resolved "https://registry.yarnpkg.com/expo-updates/-/expo-updates-0.25.20.tgz#a3a597260e8a4c792ef5b4dd5aa8aba671228265"
-  integrity sha512-EfxRZDPNUWFXTsjn4Ii+AwIp/KLHXGKG59R8kyWzz/nHeMxXqGUDQF79qcgXcaq5lOMUpeGNlZqOBGho9cvUEg==
+expo-updates@~0.25.21:
+  version "0.25.21"
+  resolved "https://registry.yarnpkg.com/expo-updates/-/expo-updates-0.25.21.tgz#4b117ee23261e386382c24154600d782b6b0765b"
+  integrity sha512-eNElrzLFHky2au0H8MqdAJdqh40412PHCdANdXtB/P/XIS1xVte74T9rUf053iPswnLLuQfCUpZYSfRKTcsDlg==
   dependencies:
     "@expo/code-signing-certificates" "0.0.5"
     "@expo/config" "~9.0.0-beta.0"
     "@expo/config-plugins" "~8.0.8"
-    "@expo/fingerprint" "^0.10.1"
+    "@expo/fingerprint" "^0.10.2"
     "@expo/spawn-async" "^1.7.2"
     arg "4.1.0"
     chalk "^4.1.2"
