@@ -17,7 +17,7 @@
     "expo-status-bar": "~1.12.1",
     "expo-updates": "~0.25.22",
     "json5": "2.2.3",
-    "react": "18.2.0",
+    "react": "18.3.1",
     "react-dom": "18.2.0",
     "react-native": "0.75.1",
     "react-native-dotenv": "^3.4.11",
