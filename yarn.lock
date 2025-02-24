@@ -1688,18 +1688,7 @@
     tmp "^0.0.33"
     tslib "^2.4.0"
 
-"@expo/env@~0.4.1":
-  version "0.4.1"
-  resolved "https://registry.yarnpkg.com/@expo/env/-/env-0.4.1.tgz#8691f6c7df08e66af767ff607e1eac2010487fdc"
-  integrity sha512-oDtbO3i9yXD1nx93acWiPTWGljJ3vABn35x1NAbqtQ2JL6mFOcRcArt1dwi4imZyLnG4VCcjabT9irj+LgYntw==
-  dependencies:
-    chalk "^4.0.0"
-    debug "^4.3.4"
-    dotenv "~16.4.5"
-    dotenv-expand "~11.0.6"
-    getenv "^1.0.0"
-
-"@expo/env@~0.4.2":
+"@expo/env@~0.4.1", "@expo/env@~0.4.2":
   version "0.4.2"
   resolved "https://registry.yarnpkg.com/@expo/env/-/env-0.4.2.tgz#911709933e6fc1b45b3d2efdb10ca2c52fac7e91"
   integrity sha512-TgbCgvSk0Kq0e2fLoqHwEBL4M0ztFjnBEz0YCDm5boc1nvkV1VMuIMteVdeBwnTh8Z0oPJTwHCD49vhMEt1I6A==
@@ -3948,13 +3937,13 @@ expo-asset@~11.0.3:
     invariant "^2.2.4"
     md5-file "^3.2.3"
 
-expo-constants@^17.0.4, expo-constants@~17.0.5, expo-constants@~17.0.6:
-  version "17.0.6"
-  resolved "https://registry.yarnpkg.com/expo-constants/-/expo-constants-17.0.6.tgz#0211e34d497bbfc0cdf6002d00a05173d1e6455c"
-  integrity sha512-rl3/hBIIkh4XDkCEMzGpmY6kWj2G1TA4Mq2joeyzoFBepJuGjqnGl7phf/71sTTgamQ1hmhKCLRNXMpRqzzqxw==
+expo-constants@^17.0.7, expo-constants@~17.0.5, expo-constants@~17.0.6:
+  version "17.0.7"
+  resolved "https://registry.yarnpkg.com/expo-constants/-/expo-constants-17.0.7.tgz#630d42ec7d142065aeb75958becb9a27e0907d24"
+  integrity sha512-sp5NUiV17I3JblVPIBDgoxgt7JIZS30vcyydCYHxsEoo+aKaeRYXxGYilCvb9lgI6BBwSL24sQ6ZjWsCWoF1VA==
   dependencies:
-    "@expo/config" "~10.0.9"
-    "@expo/env" "~0.4.1"
+    "@expo/config" "~10.0.10"
+    "@expo/env" "~0.4.2"
 
 expo-eas-client@~0.13.2:
   version "0.13.2"
