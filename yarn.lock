@@ -3763,10 +3763,10 @@ expo-modules-core@2.2.3:
   dependencies:
     invariant "^2.2.4"
 
-expo-router@^4.0.19:
-  version "4.0.19"
-  resolved "https://registry.yarnpkg.com/expo-router/-/expo-router-4.0.19.tgz#b2c33c07f18c81af0692ee06b6f1e3dee50da979"
-  integrity sha512-oZ/vAx0x126Q6rccpWkMhKa/17YHYfeXQP8KwqaIadQsTR28cLgAY2gcAtFQyc8XTjgJmsRnfQNyCnyNN04DWg==
+expo-router@^4.0.20:
+  version "4.0.20"
+  resolved "https://registry.yarnpkg.com/expo-router/-/expo-router-4.0.20.tgz#1b4d7c9b9fd3c16a5bd145acab6281ae581efdc5"
+  integrity sha512-1+CtvohptOsG/Piejk8uQ9cmM+8ojadFkdeThCn4klZjc0dtFSSHenb8D/0RKuBdp4taBkNaqgEKwYvhVBJyEg==
   dependencies:
     "@expo/metro-runtime" "4.0.1"
     "@expo/server" "^0.5.3"
