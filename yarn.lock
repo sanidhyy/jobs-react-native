@@ -1375,16 +1375,16 @@
   dependencies:
     "@types/hammerjs" "^2.0.36"
 
-"@expo/cli@0.24.18":
-  version "0.24.18"
-  resolved "https://registry.yarnpkg.com/@expo/cli/-/cli-0.24.18.tgz#47f701235fe84ecfb46497a791e7a4becf3fc383"
-  integrity sha512-4cUVWa7bHS0oLn9hBCH5QKI47o+qm0JTUl8xINC0In0JIG9mlLugDSNY+t81powr28Htq9n5gOGkKPTGc1vKiw==
+"@expo/cli@0.24.20":
+  version "0.24.20"
+  resolved "https://registry.yarnpkg.com/@expo/cli/-/cli-0.24.20.tgz#c9a3ad7eb93b0d6a39da20ef8804976b65838790"
+  integrity sha512-uF1pOVcd+xizNtVTuZqNGzy7I6IJon5YMmQidsURds1Ww96AFDxrR/NEACqeATNAmY60m8wy1VZZpSg5zLNkpw==
   dependencies:
     "@0no-co/graphql.web" "^1.0.8"
     "@babel/runtime" "^7.20.0"
     "@expo/code-signing-certificates" "^0.0.5"
-    "@expo/config" "~11.0.12"
-    "@expo/config-plugins" "~10.1.1"
+    "@expo/config" "~11.0.13"
+    "@expo/config-plugins" "~10.1.2"
     "@expo/devcert" "^1.1.2"
     "@expo/env" "~1.0.7"
     "@expo/image-utils" "^0.7.6"
@@ -1393,7 +1393,7 @@
     "@expo/osascript" "^2.2.5"
     "@expo/package-manager" "^1.8.6"
     "@expo/plist" "^0.3.5"
-    "@expo/prebuild-config" "^9.0.10"
+    "@expo/prebuild-config" "^9.0.11"
     "@expo/spawn-async" "^1.7.2"
     "@expo/ws-tunnel" "^1.0.1"
     "@expo/xcpretty" "^4.3.0"
@@ -1630,6 +1630,22 @@
   dependencies:
     "@expo/config" "~11.0.12"
     "@expo/config-plugins" "~10.1.1"
+    "@expo/config-types" "^53.0.5"
+    "@expo/image-utils" "^0.7.6"
+    "@expo/json-file" "^9.1.5"
+    "@react-native/normalize-colors" "0.79.5"
+    debug "^4.3.1"
+    resolve-from "^5.0.0"
+    semver "^7.6.0"
+    xml2js "0.6.0"
+
+"@expo/prebuild-config@^9.0.11":
+  version "9.0.11"
+  resolved "https://registry.yarnpkg.com/@expo/prebuild-config/-/prebuild-config-9.0.11.tgz#0cc3039522dafd04102163f02ee596b5683d9d2b"
+  integrity sha512-0DsxhhixRbCCvmYskBTq8czsU0YOBsntYURhWPNpkl0IPVpeP9haE5W4OwtHGzXEbmHdzaoDwNmVcWjS/mqbDw==
+  dependencies:
+    "@expo/config" "~11.0.13"
+    "@expo/config-plugins" "~10.1.2"
     "@expo/config-types" "^53.0.5"
     "@expo/image-utils" "^0.7.6"
     "@expo/json-file" "^9.1.5"
@@ -3477,10 +3493,10 @@ expo-manifests@~0.16.6:
     "@expo/config" "~11.0.12"
     expo-json-utils "~0.15.0"
 
-expo-modules-autolinking@2.1.13:
-  version "2.1.13"
-  resolved "https://registry.yarnpkg.com/expo-modules-autolinking/-/expo-modules-autolinking-2.1.13.tgz#3bc667eb4b902a1d0fc72ffb018a46e51b1b314c"
-  integrity sha512-+SaiYkdP3LXOFm/26CHMHBof9Xq/0MHNDzL/K0OwPgHLhZ6wpDWIDYWRHNueWYtGpAeLw2XAhR0HX4FNtU09qw==
+expo-modules-autolinking@2.1.14:
+  version "2.1.14"
+  resolved "https://registry.yarnpkg.com/expo-modules-autolinking/-/expo-modules-autolinking-2.1.14.tgz#4b4afddefba1a8b6fec0bf795cf6fe52c81343d1"
+  integrity sha512-nT5ERXwc+0ZT/pozDoJjYZyUQu5RnXMk9jDGm5lg+PiKvsrCTSA/2/eftJGMxLkTjVI2MXp5WjSz3JRjbA7UXA==
   dependencies:
     "@expo/spawn-async" "^1.7.2"
     chalk "^4.1.0"
@@ -3561,15 +3577,15 @@ expo-updates@~0.28.17:
     ignore "^5.3.1"
     resolve-from "^5.0.0"
 
-expo@^53.0.17:
-  version "53.0.17"
-  resolved "https://registry.yarnpkg.com/expo/-/expo-53.0.17.tgz#785bf6a5fe2c14ef5f2b7fe17690308a78755b4f"
-  integrity sha512-I1z4X/BoirQeWH8VMcfW1N3OsKCY0LslGjhzDsBWomv4rzviLkcm7KNJBeYWddY7wGo0bljT8S57NGsIJS/f9g==
+expo@^53.0.19:
+  version "53.0.19"
+  resolved "https://registry.yarnpkg.com/expo/-/expo-53.0.19.tgz#69f8ed224efadf517d3ff66dde3d536fb3e8f00a"
+  integrity sha512-hZWEKw6h5dlfKy6+c3f2exx5x3Loio8p0b2s/Pk1eQfTffqpkQRVVlOzcTWU1RSuMfc47ZMpr97pUJWQczOGsQ==
   dependencies:
     "@babel/runtime" "^7.20.0"
-    "@expo/cli" "0.24.18"
-    "@expo/config" "~11.0.12"
-    "@expo/config-plugins" "~10.1.1"
+    "@expo/cli" "0.24.20"
+    "@expo/config" "~11.0.13"
+    "@expo/config-plugins" "~10.1.2"
     "@expo/fingerprint" "0.13.4"
     "@expo/metro-config" "0.20.17"
     "@expo/vector-icons" "^14.0.0"
@@ -3579,7 +3595,7 @@ expo@^53.0.17:
     expo-file-system "~18.1.11"
     expo-font "~13.3.2"
     expo-keep-awake "~14.1.4"
-    expo-modules-autolinking "2.1.13"
+    expo-modules-autolinking "2.1.14"
     expo-modules-core "2.4.2"
     react-native-edge-to-edge "1.6.0"
     whatwg-url-without-unicode "8.0.0-3"
