@@ -3727,12 +3727,12 @@ expo-asset@~12.0.8:
     "@expo/image-utils" "^0.8.7"
     expo-constants "~18.0.8"
 
-expo-constants@^18.0.8, expo-constants@~18.0.8:
-  version "18.0.8"
-  resolved "https://registry.yarnpkg.com/expo-constants/-/expo-constants-18.0.8.tgz#14f8388136de6e83d651bd68b326a675dfb7051c"
-  integrity sha512-Tetphsx6RVImCTZeBAclRQMy0WOODY3y6qrUoc88YGUBVm8fAKkErCSWxLTCc6nFcJxdoOMYi62LgNIUFjZCLA==
+expo-constants@^18.0.9, expo-constants@~18.0.8:
+  version "18.0.9"
+  resolved "https://registry.yarnpkg.com/expo-constants/-/expo-constants-18.0.9.tgz#fcaf37e97ea2b928bd3b92f2ea9836984ab6e48b"
+  integrity sha512-sqoXHAOGDcr+M9NlXzj1tGoZyd3zxYDy215W6E0Z0n8fgBaqce9FAYQE2bu5X4G629AYig5go7U6sQz7Pjcm8A==
   dependencies:
-    "@expo/config" "~12.0.8"
+    "@expo/config" "~12.0.9"
     "@expo/env" "~2.0.7"
 
 expo-eas-client@~1.0.7:
