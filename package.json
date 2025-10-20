@@ -25,7 +25,7 @@
     "react-native-reanimated": "~3.19.3",
     "react-native-safe-area-context": "5.6.1",
     "react-native-web": "~0.21.2",
-    "react-native-screens": "~4.16.0",
+    "react-native-screens": "~4.17.1",
     "xml2js": "0.6.2"
   },
   "devDependencies": {
