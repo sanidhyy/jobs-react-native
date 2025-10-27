@@ -8,7 +8,7 @@
   "dependencies": {
     "axios": "^1.12.2",
     "dotenv": "^17.2.3",
-    "expo": "^54.0.13",
+    "expo": "^54.0.20",
     "expo-font": "^14.0.9",
     "expo-constants": "^18.0.9",
     "expo-linking": "~8.0.8",
