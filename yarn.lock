@@ -1535,7 +1535,7 @@
   resolved "https://registry.yarnpkg.com/@expo/config-types/-/config-types-54.0.8.tgz#2aa1f96e0abad6a125d0ff1092b303280f7962e9"
   integrity sha512-lyIn/x/Yz0SgHL7IGWtgTLg6TJWC9vL7489++0hzCHZ4iGjVcfZmPTUfiragZ3HycFFj899qN0jlhl49IHa94A==
 
-"@expo/config@~12.0.10", "@expo/config@~12.0.8":
+"@expo/config@~12.0.10":
   version "12.0.10"
   resolved "https://registry.yarnpkg.com/@expo/config/-/config-12.0.10.tgz#18acc0a2d5994dc167d1d4faca3e939de2bb95de"
   integrity sha512-lJMof5Nqakq1DxGYlghYB/ogSBjmv4Fxn1ovyDmcjlRsQdFCXgu06gEUogkhPtc9wBt9WlTTfqENln5HHyLW6w==
@@ -3673,12 +3673,12 @@ expo-linking@~8.0.9:
     expo-constants "~18.0.10"
     invariant "^2.2.4"
 
-expo-manifests@~1.0.8:
-  version "1.0.8"
-  resolved "https://registry.yarnpkg.com/expo-manifests/-/expo-manifests-1.0.8.tgz#2ee1b33f974481d8cc5fc76352e0c78de5ff74d6"
-  integrity sha512-nA5PwU2uiUd+2nkDWf9e71AuFAtbrb330g/ecvuu52bmaXtN8J8oiilc9BDvAX0gg2fbtOaZdEdjBYopt1jdlQ==
+expo-manifests@~1.0.9:
+  version "1.0.9"
+  resolved "https://registry.yarnpkg.com/expo-manifests/-/expo-manifests-1.0.9.tgz#7c612d80e552a3f1e479a9a18763c5bdcd43ca6e"
+  integrity sha512-5uVgvIo0o+xBcEJiYn4uVh72QSIqyHePbYTWXYa4QamXd+AmGY/yWmtHaNqCqjsPLCwXyn4OxPr7jXJCeTWLow==
   dependencies:
-    "@expo/config" "~12.0.8"
+    "@expo/config" "~12.0.10"
     expo-json-utils "~0.15.0"
 
 expo-modules-autolinking@3.0.21:
@@ -3748,10 +3748,10 @@ expo-updates-interface@~2.0.0:
   resolved "https://registry.yarnpkg.com/expo-updates-interface/-/expo-updates-interface-2.0.0.tgz#7721cb64c37bcb46b23827b2717ef451a9378749"
   integrity sha512-pTzAIufEZdVPKql6iMi5ylVSPqV1qbEopz9G6TSECQmnNde2nwq42PxdFBaUEd8IZJ/fdJLQnOT3m6+XJ5s7jg==
 
-expo-updates@~29.0.12:
-  version "29.0.12"
-  resolved "https://registry.yarnpkg.com/expo-updates/-/expo-updates-29.0.12.tgz#cb43a20a6d32426694d414a2551f7300a4f75631"
-  integrity sha512-gE3bU6qi5g8Y1TtBzoeHac3utR0i1Wj1ufThh+zpDyFjFbegFm+gwvNLVCBagZUClYKk/4CKxh5ytnwZmPzH+g==
+expo-updates@~29.0.13:
+  version "29.0.13"
+  resolved "https://registry.yarnpkg.com/expo-updates/-/expo-updates-29.0.13.tgz#d8fd9cca4fbabe6c8c3db746537ce61c06274441"
+  integrity sha512-tf/yex7U7betbIyDNwaSyDWDxMQVgmJ5qyghGEDlHP0052CPKUvbNEdtdf4DNCpsL3uxn8+71A4O4NxQdJEFuA==
   dependencies:
     "@expo/code-signing-certificates" "0.0.5"
     "@expo/plist" "^0.4.7"
@@ -3760,7 +3760,7 @@ expo-updates@~29.0.12:
     chalk "^4.1.2"
     debug "^4.3.4"
     expo-eas-client "~1.0.7"
-    expo-manifests "~1.0.8"
+    expo-manifests "~1.0.9"
     expo-structured-headers "~5.0.0"
     expo-updates-interface "~2.0.0"
     getenv "^2.0.0"
