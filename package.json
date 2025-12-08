@@ -10,7 +10,7 @@
     "dotenv": "^17.2.3",
     "expo": "^54.0.25",
     "expo-font": "^14.0.9",
-    "expo-constants": "^18.0.9",
+    "expo-constants": "^18.0.11",
     "expo-linking": "~8.0.9",
     "expo-router": "^5.1.4",
     "expo-splash-screen": "~31.0.11",
