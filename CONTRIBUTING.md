@@ -1,7 +1,7 @@
 ## Contributing
 
-[fork]: https://github.com/Technical-Shubham-tech/jobs-react-native/fork
-[pr]: https://github.com/Technical-Shubham-tech/jobs-react-native/compare
+[fork]: https://github.com/sanidhyy/jobs-react-native/fork
+[pr]: https://github.com/sanidhyy/jobs-react-native/compare
 [style]: https://standardjs.com/
 [code-of-conduct]: CODE_OF_CONDUCT.md
 
