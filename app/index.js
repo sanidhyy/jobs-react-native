@@ -31,7 +31,7 @@ const Home = () => {
               dimension="70%"
               handlePress={() =>
                 Linking.openURL(
-                  "https://github.com/Technical-Shubham-tech/jobs-react-native"
+                  "https://github.com/sanidhyy/jobs-react-native"
                 )
               }
             />
