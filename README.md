@@ -4,13 +4,13 @@
     <img src="/.github/images/img_main.jpeg" alt="A React Native Job Finder App" height="700" title="A React Native Job Finder App" />
 </p>
 
-[![Ask Me Anything!](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/Technical-Shubham-tech "Ask Me Anything!")
-[![GitHub license](https://img.shields.io/github/license/Technical-Shubham-tech/jobs-react-native)](https://github.com/Technical-Shubham-tech/jobs-react-native/blob/main/LICENSE.md "GitHub license")
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Technical-Shubham-tech/jobs-react-native/commits/main "Maintenance")
-[![GitHub branches](https://badgen.net/github/branches/Technical-Shubham-tech/jobs-react-native)](https://github.com/Technical-Shubham-tech/jobs-react-native/branches "GitHub branches")
-[![Github commits](https://badgen.net/github/commits/Technical-Shubham-tech/jobs-react-native/main)](https://github.com/Technical-Shubham-tech/jobs-react-native/commits "Github commits")
-[![GitHub issues](https://img.shields.io/github/issues/Technical-Shubham-tech/jobs-react-native)](https://github.com/Technical-Shubham-tech/jobs-react-native/issues "GitHub issues")
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/Technical-Shubham-tech/jobs-react-native)](https://github.com/Technical-Shubham-tech/jobs-react-native/pulls "GitHub pull requests")
+[![Ask Me Anything!](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/sanidhyy "Ask Me Anything!")
+[![GitHub license](https://img.shields.io/github/license/sanidhyy/jobs-react-native)](https://github.com/sanidhyy/jobs-react-native/blob/main/LICENSE.md "GitHub license")
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/sanidhyy/jobs-react-native/commits/main "Maintenance")
+[![GitHub branches](https://badgen.net/github/branches/sanidhyy/jobs-react-native)](https://github.com/sanidhyy/jobs-react-native/branches "GitHub branches")
+[![Github commits](https://badgen.net/github/commits/sanidhyy/jobs-react-native/main)](https://github.com/sanidhyy/jobs-react-native/commits "Github commits")
+[![GitHub issues](https://img.shields.io/github/issues/sanidhyy/jobs-react-native)](https://github.com/sanidhyy/jobs-react-native/issues "GitHub issues")
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/sanidhyy/jobs-react-native)](https://github.com/sanidhyy/jobs-react-native/pulls "GitHub pull requests")
 
 ## :pushpin: How to use this App?
 
@@ -60,7 +60,7 @@ RAPID_API_KEY=XXXXXXXXXXXXXXXXXXX
 
 [<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="150" />](https://www.reactnative.dev/ "React Native")
 
-[<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="Built with Love">](https://github.com/Technical-Shubham-tech "Built with Love")
+[<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="Built with Love">](https://github.com/sanidhyy "Built with Love")
 
 ## :raised_hands: Contribute
 
@@ -72,8 +72,8 @@ You might encounter some bugs while using this app. You are more than welcome to
 
 ## :rocket: Follow Me
 
-[![GitHub followers](https://img.shields.io/github/followers/Technical-Shubham-tech?style=social&label=Follow&maxAge=2592000)](https://github.com/Technical-Shubham-tech "Follow Me")
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FTechnicalShubam)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FTechnical-Shubham-tech%2Fmedical-chat-app "Tweet")
+[![GitHub followers](https://img.shields.io/github/followers/sanidhyy?style=social&label=Follow&maxAge=2592000)](https://github.com/sanidhyy "Follow Me")
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fsanidhyyy)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fsanidhyy%2Fmedical-chat-app "Tweet")
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCNAz_hUVBG2ZUN8TVm0bmYw "Subscribe my Channel")
 
 ## :star: Give A Star
