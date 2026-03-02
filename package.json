@@ -13,7 +13,7 @@
     "expo-constants": "^18.0.9",
     "expo-linking": "~8.0.11",
     "expo-router": "^5.1.4",
-    "expo-splash-screen": "~31.0.13",
+    "expo-splash-screen": "~55.0.10",
     "expo-status-bar": "~55.0.4",
     "expo-updates": "~55.0.12",
     "json5": "2.2.3",
