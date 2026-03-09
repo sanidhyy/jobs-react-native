@@ -1614,6 +1614,15 @@
     dotenv-expand "~11.0.6"
     getenv "^2.0.0"
 
+"@expo/env@~2.1.1":
+  version "2.1.1"
+  resolved "https://registry.yarnpkg.com/@expo/env/-/env-2.1.1.tgz#95c047b69dee14a6ebaaa0415c4896ac69f1bf0d"
+  integrity sha512-rVvHC4I6xlPcg+mAO09ydUi2Wjv1ZytpLmHOSzvXzBAz9mMrJggqCe4s4dubjJvi/Ino/xQCLhbaLCnTtLpikg==
+  dependencies:
+    chalk "^4.0.0"
+    debug "^4.3.4"
+    getenv "^2.0.0"
+
 "@expo/fingerprint@0.15.4":
   version "0.15.4"
   resolved "https://registry.yarnpkg.com/@expo/fingerprint/-/fingerprint-0.15.4.tgz#578bd1e1179a13313f7de682ebaaacb703b2b7ac"
@@ -3656,7 +3665,15 @@ expo-asset@~12.0.12:
     "@expo/image-utils" "^0.8.8"
     expo-constants "~18.0.12"
 
-expo-constants@^18.0.9, expo-constants@~18.0.12, expo-constants@~18.0.13:
+expo-constants@^55.0.7:
+  version "55.0.7"
+  resolved "https://registry.yarnpkg.com/expo-constants/-/expo-constants-55.0.7.tgz#c9fcb4b2f2a6eb06a760bdd4f4425ba8f3f937b9"
+  integrity sha512-kdcO4TsQRRqt0USvjaY5vgQMO9H52K3kBZ/ejC7F6rz70mv08GoowrZ1CYOr5O4JpPDRlIpQfZJUucaS/c+KWQ==
+  dependencies:
+    "@expo/config" "~55.0.8"
+    "@expo/env" "~2.1.1"
+
+expo-constants@~18.0.12, expo-constants@~18.0.13:
   version "18.0.13"
   resolved "https://registry.yarnpkg.com/expo-constants/-/expo-constants-18.0.13.tgz#0117f1f3d43be7b645192c0f4f431fb4efc4803d"
   integrity sha512-FnZn12E1dRYKDHlAdIyNFhBurKTS3F9CrfrBDJI5m3D7U17KBHMQ6JEfYlSj7LG7t+Ulr+IKaj58L1k5gBwTcQ==
