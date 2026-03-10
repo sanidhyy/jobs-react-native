@@ -3656,12 +3656,12 @@ expo-keep-awake@~55.0.4:
   resolved "https://registry.yarnpkg.com/expo-keep-awake/-/expo-keep-awake-55.0.4.tgz#8fe3685b75bda28e15268821a384e069f0395fab"
   integrity sha512-vwfdMtMS5Fxaon8gC0AiE70SpxTsHJ+rjeoVJl8kdfdbxczF7OIaVmfjFJ5Gfigd/WZiLqxhfZk34VAkXF4PNg==
 
-expo-linking@~8.0.11:
-  version "8.0.11"
-  resolved "https://registry.yarnpkg.com/expo-linking/-/expo-linking-8.0.11.tgz#b13ca9fc409ef0536352443221eb50e5e2bee366"
-  integrity sha512-+VSaNL5om3kOp/SSKO5qe6cFgfSIWnnQDSbA7XLs3ECkYzXRquk5unxNS3pg7eK5kNUmQ4kgLI7MhTggAEUBLA==
+expo-linking@~55.0.7:
+  version "55.0.7"
+  resolved "https://registry.yarnpkg.com/expo-linking/-/expo-linking-55.0.7.tgz#9583e283dc1de25722675abda2a376fcc94e1e8f"
+  integrity sha512-MiGCedere1vzQTEi2aGrkzd7eh/rPSz4w6F3GMBuAJzYl+/0VhIuyhozpEGrueyDIXWfzaUVOcn3SfxVi+kwQQ==
   dependencies:
-    expo-constants "~18.0.12"
+    expo-constants "~55.0.7"
     invariant "^2.2.4"
 
 expo-manifests@~55.0.9:
