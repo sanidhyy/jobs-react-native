@@ -1495,14 +1495,14 @@
   resolved "https://registry.yarnpkg.com/@expo/config-types/-/config-types-55.0.5.tgz#731ce3e95866254e18977c0026ebab8a00dd6e10"
   integrity sha512-sCmSUZG4mZ/ySXvfyyBdhjivz8Q539X1NondwDdYG7s3SBsk+wsgPJzYsqgAG/P9+l0xWjUD2F+kQ1cAJ6NNLg==
 
-"@expo/config@~55.0.10", "@expo/config@~55.0.11":
-  version "55.0.11"
-  resolved "https://registry.yarnpkg.com/@expo/config/-/config-55.0.11.tgz#7daf0bd737d0cba4aa2f0e291a13cd0f2fe0760d"
-  integrity sha512-14AkSmR1gOIUhCsPJ0cAo5ZduMNsPQsmFV9jBNZn1xC5Zb3D8x5eqvUie5QzWaUwdcyrq79uYJ2bTCiC6+nD0Q==
+"@expo/config@~55.0.10", "@expo/config@~55.0.11", "@expo/config@~55.0.12":
+  version "55.0.12"
+  resolved "https://registry.yarnpkg.com/@expo/config/-/config-55.0.12.tgz#0f06b5fc3d6694d8013b8daf84f78725cbe653b8"
+  integrity sha512-qVih0IrjupykH/yAUilZqW1RCpqm8TKG8XJabji2VHI1LstGqw0NJAsBjX927yns08u/fFJTwOsB4PYOoq1HiA==
   dependencies:
     "@expo/config-plugins" "~55.0.7"
     "@expo/config-types" "^55.0.5"
-    "@expo/json-file" "^10.0.12"
+    "@expo/json-file" "^10.0.13"
     "@expo/require-utils" "^55.0.3"
     deepmerge "^4.3.1"
     getenv "^2.0.0"
@@ -1575,6 +1575,14 @@
   version "10.0.12"
   resolved "https://registry.yarnpkg.com/@expo/json-file/-/json-file-10.0.12.tgz#411216996ab6df6765d463de22283b3f30e49ccb"
   integrity sha512-inbDycp1rMAelAofg7h/mMzIe+Owx6F7pur3XdQ3EPTy00tme+4P6FWgHKUcjN8dBSrnbRNpSyh5/shzHyVCyQ==
+  dependencies:
+    "@babel/code-frame" "^7.20.0"
+    json5 "^2.2.3"
+
+"@expo/json-file@^10.0.13":
+  version "10.0.13"
+  resolved "https://registry.yarnpkg.com/@expo/json-file/-/json-file-10.0.13.tgz#1a9ac56333786e8672181b0b95aab08f8255a548"
+  integrity sha512-pX/XjQn7tgNw6zuuV2ikmegmwe/S7uiwhrs2wXrANMkq7ozrA+JcZwgW9Q/8WZgciBzfAhNp5hnackHcrmapQA==
   dependencies:
     "@babel/code-frame" "^7.20.0"
     json5 "^2.2.3"
@@ -3498,12 +3506,12 @@ expo-asset@~55.0.10:
     "@expo/image-utils" "^0.8.12"
     expo-constants "~55.0.9"
 
-expo-constants@^55.0.7, expo-constants@~55.0.9:
-  version "55.0.9"
-  resolved "https://registry.yarnpkg.com/expo-constants/-/expo-constants-55.0.9.tgz#73eda44cdc8198ba1eb83972f14c5aec9bc68e35"
-  integrity sha512-iBiXjZeuU5S/8docQeNzsVvtDy4w0zlmXBpFEi1ypwugceEpdQQab65TVRbusXAcwpNVxCPMpNlDssYp0Pli2g==
+expo-constants@^55.0.11, expo-constants@~55.0.9:
+  version "55.0.11"
+  resolved "https://registry.yarnpkg.com/expo-constants/-/expo-constants-55.0.11.tgz#3bd7f8ff03b9f77792115c93a842b41fb05f0362"
+  integrity sha512-efWOJr0oVDId0lhvXJwoWfzucwi1/upDDseuYAhK0m8v5Hg7ObDehMmKRMGL0dgABmlSnppNmmYIeTVe7e2yVg==
   dependencies:
-    "@expo/config" "~55.0.10"
+    "@expo/config" "~55.0.12"
     "@expo/env" "~2.1.1"
 
 expo-eas-client@~55.0.3:
