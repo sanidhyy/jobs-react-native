@@ -1506,7 +1506,7 @@
   resolved "https://registry.yarnpkg.com/@expo/config-types/-/config-types-55.0.5.tgz#731ce3e95866254e18977c0026ebab8a00dd6e10"
   integrity sha512-sCmSUZG4mZ/ySXvfyyBdhjivz8Q539X1NondwDdYG7s3SBsk+wsgPJzYsqgAG/P9+l0xWjUD2F+kQ1cAJ6NNLg==
 
-"@expo/config@~55.0.11", "@expo/config@~55.0.12", "@expo/config@~55.0.14":
+"@expo/config@~55.0.11", "@expo/config@~55.0.14":
   version "55.0.14"
   resolved "https://registry.yarnpkg.com/@expo/config/-/config-55.0.14.tgz#7cd8dae64d5dcd55fd2f0acaaa507af40deb7fe4"
   integrity sha512-CCIe6Suuy0DjC58PI6jBpK8Y3pW0BimXGP8tZrVKPqS5ECqVTei0Xp78nbC/fbO+79r6ak5Su6Os71U459j4dw==
@@ -3607,12 +3607,12 @@ expo-linking@~55.0.11:
     expo-constants "~55.0.11"
     invariant "^2.2.4"
 
-expo-manifests@~55.0.13:
-  version "55.0.13"
-  resolved "https://registry.yarnpkg.com/expo-manifests/-/expo-manifests-55.0.13.tgz#98f1d44ab536fb7feff4b914e13a01f90a78449b"
-  integrity sha512-eLU5PIF9Tg3hHfKK9NgkvCRxwLb3pn8j2W6G/Vt8R6MHSNgaFU7pujvcBDbJCe5t9109zeS5PJY/d+dcagIKNw==
+expo-manifests@~55.0.15:
+  version "55.0.15"
+  resolved "https://registry.yarnpkg.com/expo-manifests/-/expo-manifests-55.0.15.tgz#af9213abb4cddca0ee50163611dc1bc16412f755"
+  integrity sha512-p40ftXpgLTFGddFy35MYZMyjm/E6IQdn3l6fBZZ6zeraEzYLt+VLHYsplOL9ccTYvUSWKN9aOWRpoEYpyGVBVw==
   dependencies:
-    "@expo/config" "~55.0.12"
+    "@expo/config" "~55.0.14"
     expo-json-utils "~55.0.2"
 
 expo-modules-autolinking@55.0.17:
@@ -3681,10 +3681,10 @@ expo-updates-interface@~55.1.5:
   resolved "https://registry.yarnpkg.com/expo-updates-interface/-/expo-updates-interface-55.1.5.tgz#72f0d595628b86afc83eca057723e24fc8d8b625"
   integrity sha512-YOk9vhplWi0djoeqxMlEQgcDFeOGhnj4dWU0v1QvF5RqpqwLGdx780E0k3zL85xw6LXljVN78d6g8z51qIZu5g==
 
-expo-updates@~55.0.18:
-  version "55.0.18"
-  resolved "https://registry.yarnpkg.com/expo-updates/-/expo-updates-55.0.18.tgz#8e5fdd5cfb35090bd61631c4aba3fb595c62154b"
-  integrity sha512-+sJdL9J/aSUi6R/DjPuTFFnd4eRxE1Hbz5P3FUKnpYqU21winrklx3YCNawakiid6iMjTK4+rWutziUO21ARWA==
+expo-updates@~55.0.20:
+  version "55.0.20"
+  resolved "https://registry.yarnpkg.com/expo-updates/-/expo-updates-55.0.20.tgz#751643ed931d90a358869ccff73d8b4962ba75ac"
+  integrity sha512-bRVsm+2ax3rQkErV+YX9uw+2N5DJ7C2S4ETPZPFbnLubSCJtlPuMHZ2SDQvmh3mAOl0yURKkbIMWVCvT89GmIQ==
   dependencies:
     "@expo/code-signing-certificates" "^0.0.6"
     "@expo/plist" "^0.5.2"
@@ -3693,7 +3693,7 @@ expo-updates@~55.0.18:
     chalk "^4.1.2"
     debug "^4.3.4"
     expo-eas-client "~55.0.5"
-    expo-manifests "~55.0.13"
+    expo-manifests "~55.0.15"
     expo-structured-headers "~55.0.2"
     expo-updates-interface "~55.1.5"
     getenv "^2.0.0"
