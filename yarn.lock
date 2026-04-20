@@ -3643,10 +3643,10 @@ expo-splash-screen@~55.0.18:
   dependencies:
     "@expo/prebuild-config" "^55.0.15"
 
-expo-status-bar@~55.0.4:
-  version "55.0.4"
-  resolved "https://registry.yarnpkg.com/expo-status-bar/-/expo-status-bar-55.0.4.tgz#f192ab6fecae0b1c6c5f913c9a0c388e04e1f6d9"
-  integrity sha512-BPDjUXKqv1F9j2YNGLRZfkBEZXIEEpqj+t81y4c+4fdSN3Pos7goIHXgcl2ozbKQLgKRZQyNZQtbUgh5UjHYUQ==
+expo-status-bar@~55.0.5:
+  version "55.0.5"
+  resolved "https://registry.yarnpkg.com/expo-status-bar/-/expo-status-bar-55.0.5.tgz#85c244bee0325db84fbd02d66c752f8cd3e61d3f"
+  integrity sha512-qb0c3rJO2b7CC0gUVGi1JYp92oLenWdYGyk8l4YQs6U+uaXUTPv6aaFa3KkT2HON10re3AxxPNJci8rsz6kPxg==
   dependencies:
     react-native-is-edge-to-edge "^1.2.1"
 
