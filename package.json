@@ -6,7 +6,7 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "axios": "^1.16.0",
+    "axios": "^1.16.1",
     "dotenv": "^17.4.2",
     "expo": "^55.0.24",
     "expo-font": "^55.0.4",
