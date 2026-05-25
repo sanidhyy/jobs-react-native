@@ -1605,15 +1605,6 @@
     debug "^4.3.4"
     getenv "^2.0.0"
 
-"@expo/env@~2.1.2":
-  version "2.1.2"
-  resolved "https://registry.yarnpkg.com/@expo/env/-/env-2.1.2.tgz#c25ecadc60555873761a02c4b85bdd1663fa568c"
-  integrity sha512-RJtGFfj/ygO/6zcVbV3cckHf4THcEkv5IZft1GjCB3dfT6axvzvIwXE9EiQqQYmGHcQ+ZrvC8xZcIhiHba0pYg==
-  dependencies:
-    chalk "^4.0.0"
-    debug "^4.3.4"
-    getenv "^2.0.0"
-
 "@expo/expo-modules-macros-plugin@~0.0.9":
   version "0.0.9"
   resolved "https://registry.yarnpkg.com/@expo/expo-modules-macros-plugin/-/expo-modules-macros-plugin-0.0.9.tgz#a657f9c3c2dbf1c91bae7ef47238078995cd1bc4"
@@ -3639,14 +3630,7 @@ expo-asset@~56.0.14:
     "@expo/image-utils" "^0.10.1"
     expo-constants "~56.0.15"
 
-expo-constants@^55.0.15:
-  version "55.0.16"
-  resolved "https://registry.yarnpkg.com/expo-constants/-/expo-constants-55.0.16.tgz#b2ffdc354716488aa38684c8cbf097150089b9b7"
-  integrity sha512-Z15/No94UHoogD+pulxjudGAeOHTEIWZgb/vnX48Wx5D+apWTeCbnKxQZZtGQlosvduYL5kaic2/W8U+NHfBQQ==
-  dependencies:
-    "@expo/env" "~2.1.2"
-
-expo-constants@~56.0.14, expo-constants@~56.0.15:
+expo-constants@^56.0.15, expo-constants@~56.0.14, expo-constants@~56.0.15:
   version "56.0.15"
   resolved "https://registry.yarnpkg.com/expo-constants/-/expo-constants-56.0.15.tgz#5181236d939747efe1fd38794b8921107ba96dec"
   integrity sha512-7187sd55swLX+CM0noAV5LreEgkUaDG/zEXy9quonfzKpJxy8zJAszp9S++xOx/FcqBVEEEcQhE8tKTujwL8fg==
