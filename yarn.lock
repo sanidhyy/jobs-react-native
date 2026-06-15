@@ -3511,10 +3511,10 @@ expo-asset@~56.0.14:
     "@expo/image-utils" "^0.10.1"
     expo-constants "~56.0.15"
 
-expo-constants@^56.0.16, expo-constants@~56.0.15, expo-constants@~56.0.16:
-  version "56.0.17"
-  resolved "https://registry.yarnpkg.com/expo-constants/-/expo-constants-56.0.17.tgz#8a1900cf536edc69ea57887782b32ec33c7fd1f0"
-  integrity sha512-bU8iU1+7cI7QzfGQVnz2C1nlbXD08YPwD6h8ZEuNspgUuD2prXfmrhrdLe1GjCPYGw4hB3BNjWPjpenNyyymfQ==
+expo-constants@^56.0.18, expo-constants@~56.0.15, expo-constants@~56.0.16:
+  version "56.0.18"
+  resolved "https://registry.yarnpkg.com/expo-constants/-/expo-constants-56.0.18.tgz#f9be4f8af7470144578ac945bfa98c271cf39120"
+  integrity sha512-8AMtbDGl/WVPnWlmbpGmvcdnNCy9E4PFnwdVwj600vljkMDPSxcAcjw8GVXEPk3PpZ+ngTqsrkltWyj0UKYAxw==
   dependencies:
     "@expo/env" "~2.3.0"
 
