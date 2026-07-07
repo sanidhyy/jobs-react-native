@@ -3577,14 +3577,7 @@ expo-file-system@~57.0.0:
   resolved "https://registry.yarnpkg.com/expo-file-system/-/expo-file-system-57.0.0.tgz#d7afbb2ff0a269113a00a688c1f6ba89404df56c"
   integrity sha512-G+eytNuNGMiS7dbdj1j0nAYMowXnNr1vpO+jss6nQvBlRxshcGBFMtk8xfc67ynz0MUVkzod7WwKO7Vf1iOaJw==
 
-expo-font@^56.0.6:
-  version "56.0.7"
-  resolved "https://registry.yarnpkg.com/expo-font/-/expo-font-56.0.7.tgz#429569724a3e811c289ef9d922e2115d8c5802bf"
-  integrity sha512-hpU/vRwPzsby9lPGkA4blDqLIIXYzoWnCZHr6PxvcWbY/uPObAiyhh6q+e0WYsB65SthK+PLH95jEnVag7fwEg==
-  dependencies:
-    fontfaceobserver "^2.1.0"
-
-expo-font@~57.0.0:
+expo-font@^57.0.0, expo-font@~57.0.0:
   version "57.0.0"
   resolved "https://registry.yarnpkg.com/expo-font/-/expo-font-57.0.0.tgz#96ce824b8a4610672687cfb3858a51547050d356"
   integrity sha512-zF+J7WrNFjqyAADwdvDgkFEoIQv9DqcjJ57HVstNEH7/7Tx1ThPEhKraodEQOwSjMYWirP+4BYsVbdb+/Zr4QQ==
