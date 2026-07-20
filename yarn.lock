@@ -5590,10 +5590,10 @@ react-native-dotenv@^3.4.11:
   dependencies:
     dotenv "^16.4.5"
 
-react-native-gesture-handler@~3.0.2:
-  version "3.0.2"
-  resolved "https://registry.yarnpkg.com/react-native-gesture-handler/-/react-native-gesture-handler-3.0.2.tgz#ea80fd2424d08f8b624977221f0544a5201f6d83"
-  integrity sha512-XBTgmvr2jh/xrMwlHTV2Z1x6IFUl3zfLxyaCAnvj3GSXK5YlY3ZmiIs57hniPmh3I7RtjPFxtGdRr0i+PzyBrg==
+react-native-gesture-handler@~3.1.0:
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/react-native-gesture-handler/-/react-native-gesture-handler-3.1.0.tgz#679e74b587464bb560ab022eedfbbbbdb17c3b1c"
+  integrity sha512-+kWVyZ6vLdtyFa1/aOc/sZncLAVPUKxhji/ttbiLI7hOaSU44bLjhI7p+Ns+pMl2r3RqPXssl5qHReYet9G77g==
   dependencies:
     "@types/react-test-renderer" "^19.1.0"
     invariant "^2.2.4"
