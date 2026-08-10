@@ -23,7 +23,7 @@
     "react-native-dotenv": "^4.1.1",
     "react-native-gesture-handler": "~3.1.0",
     "react-native-reanimated": "~3.19.5",
-    "react-native-safe-area-context": "5.8.0",
+    "react-native-safe-area-context": "5.8.1",
     "react-native-web": "~0.21.2",
     "react-native-screens": "~4.26.2",
     "xml2js": "0.6.2"
