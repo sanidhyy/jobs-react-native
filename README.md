@@ -35,6 +35,14 @@ RAPID_API_KEY=XXXXXXXXXXXXXXXXXXX
 
 :books: **More Info** related [How to start Expo App](https://www.reactnative.dev/docs/environment-setup "How to start Expo App")
 
+### :raising_hand: Need Help?
+
+If you run into issues during installation or setup:
+
+- **GitHub Discussions** — [Open a Q&A discussion](https://github.com/sanidhyy/jobs-react-native/discussions/new?category=q-a) for setup and troubleshooting help.
+- **Email** — [sanidhyyy@gmail.com](mailto:sanidhyyy@gmail.com)
+- **Discord** — `sanidhyy`
+
 ## :camera: Screenshots:
 
 <p align="center">
