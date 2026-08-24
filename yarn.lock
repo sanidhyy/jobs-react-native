@@ -1440,7 +1440,7 @@
   dependencies:
     node-forge "^1.3.3"
 
-"@expo/config-plugins@~57.0.6", "@expo/config-plugins@~57.0.8":
+"@expo/config-plugins@~57.0.8":
   version "57.0.8"
   resolved "https://registry.yarnpkg.com/@expo/config-plugins/-/config-plugins-57.0.8.tgz#e58d0883e66b4967986309d8f1561c91c087f8ea"
   integrity sha512-x6lx4s/19i39/+1dMPwb9tFCc4WR843dG5Yi+C64lhKL3YHX+6oKrT2Kv72PCEalnUY+usQDkB3NrLSrYOWtDg==
@@ -3575,12 +3575,12 @@ expo-server@^57.0.3:
   resolved "https://registry.yarnpkg.com/expo-server/-/expo-server-57.0.3.tgz#02e038a85453f1f4eb00024256b4b3cab949cace"
   integrity sha512-aK+LdKzauHSGmsOStZtyxdzv0zWssCkxTw3m4QuOhfDSJsZaMRTd9O41d8ixU/QfELTbaJ0oRNcF7JFV/7O9YQ==
 
-expo-splash-screen@~57.0.5:
-  version "57.0.5"
-  resolved "https://registry.yarnpkg.com/expo-splash-screen/-/expo-splash-screen-57.0.5.tgz#4a2dea41e6d5e6b2a531850d7f73736b98e0f3d6"
-  integrity sha512-ZN0LDXlhHRNFjXTYZDojXk8IfaoUIu7qa3hhoBTXgyj1UB/iewGlH6+M3Nvhun2lY2d/+xhwqMhv0hIRoBo09Q==
+expo-splash-screen@~57.0.7:
+  version "57.0.7"
+  resolved "https://registry.yarnpkg.com/expo-splash-screen/-/expo-splash-screen-57.0.7.tgz#d466115b4f51c0eeda0e38af5676bb81e8007cf1"
+  integrity sha512-QxqfjOCTnTGnqK2BxfEtxUJOcnsJbUXO873Q342r3VkgHAG877eozsNzgYWQXcCFj/asMwx2uy9OXxBShxc5rQ==
   dependencies:
-    "@expo/config-plugins" "~57.0.6"
+    "@expo/config-plugins" "~57.0.8"
     "@expo/image-utils" "^0.11.4"
     xml2js "0.6.0"
 
