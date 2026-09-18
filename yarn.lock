@@ -1524,7 +1524,16 @@
   resolved "https://registry.yarnpkg.com/@expo/dom-webview/-/dom-webview-57.0.1.tgz#e41e9ab9b691046c944ef2d0cd874cf316894097"
   integrity sha512-lAKsME4SAq+8sf56oN0DX5TBYyruupoRxbWbD2xf9RnKY8y6x8eb9LCE5pxSN0qyWdqnp+0wmyWzDkKboThKAw==
 
-"@expo/env@^2.4.3", "@expo/env@~2.4.3":
+"@expo/env@^2.4.3", "@expo/env@~2.5.0":
+  version "2.5.0"
+  resolved "https://registry.yarnpkg.com/@expo/env/-/env-2.5.0.tgz#6bc6c14a202ba6fb336ac9713f29c1885637aef0"
+  integrity sha512-WbMV1OKgCmGp/7qVeUFmiPMRBaj+oLLJw7Zl8xTxt6XM3jP2WCvJf2rq5Trps0h89SROc0zilnE1b/ssv6HsqA==
+  dependencies:
+    chalk "^4.0.0"
+    debug "^4.3.4"
+    getenv "^2.0.0"
+
+"@expo/env@~2.4.3":
   version "2.4.3"
   resolved "https://registry.yarnpkg.com/@expo/env/-/env-2.4.3.tgz#cba412d1cf19374bedd83106b32166a12862667c"
   integrity sha512-M1NXeZCA1mkMkYOyIe7PlyRX0/jqFtMoJgyblnlq/vpCRfmueFT7RnGSQG8uEFDF5WHOFGijAQ3fogPh3/n5Ng==
@@ -3475,7 +3484,14 @@ expo-asset@~57.0.16:
     "@expo/image-utils" "^0.11.5"
     expo-constants "~57.0.17"
 
-expo-constants@^57.0.15, expo-constants@~57.0.17:
+expo-constants@^58.0.0:
+  version "58.0.0"
+  resolved "https://registry.yarnpkg.com/expo-constants/-/expo-constants-58.0.0.tgz#ea45238549b68d8f69a78b0ec8e47ebcca8072f5"
+  integrity sha512-r5O4bOhi3qavsjNxZYvvsL1r9sdzbJAm1OC5ij/WjktRbu2CpyA+4OvPU9KVZtyMU+YShZ82vEw1CIrKlenQWg==
+  dependencies:
+    "@expo/env" "~2.5.0"
+
+expo-constants@~57.0.17:
   version "57.0.17"
   resolved "https://registry.yarnpkg.com/expo-constants/-/expo-constants-57.0.17.tgz#d8b900991f2a5e3c2567fc6e9d1d052527d4fa20"
   integrity sha512-cPWYBKN1SEbg2lXg2f8VkePJqGZrJPLvVdQDCTfbFu9sQHO1M31Y1zILReUuGnmt/VKeUz40ze579vR00xGu/A==
