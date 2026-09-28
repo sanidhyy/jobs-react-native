@@ -3351,15 +3351,10 @@ dnssd-advertise@^1.1.4:
   resolved "https://registry.yarnpkg.com/dnssd-advertise/-/dnssd-advertise-1.1.4.tgz#0744865a4fa2569a44dcb9aff267022aaf2803b2"
   integrity sha512-AmGyK9WpNf06WeP5TjHZq/wNzP76OuEeaiTlKr9E/EEelYLczywUKoqRz+DPRq/ErssjT4lU+/W7wzJW+7K/ZA==
 
-dotenv@^17.4.2:
-  version "17.4.2"
-  resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-17.4.2.tgz#c07e54a746e11eba021dd9e1047ced5afdc1c034"
-  integrity sha512-nI4U3TottKAcAD9LLud4Cb7b2QztQMUEfHbvhTH09bqXTxnSie8WnjPALV/WMCrJZ6UV/qHJ6L03OqO3LcdYZw==
-
-dotenv@^18.0.0:
-  version "18.0.0"
-  resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-18.0.0.tgz#a34cd3dd095fbfd46c282b835e380cd38f13b9e4"
-  integrity sha512-16YSUvsKtKbwrTbESvtTSZzzJUug6jdFdqiBFg9Q6Bk1JY9r0hAtrtTiWxdI9YrsgOTmkjZRdgU0n3LnwGpECw==
+dotenv@^18.0.0, dotenv@^18.0.1:
+  version "18.0.4"
+  resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-18.0.4.tgz#419bbe784f30915bfeb10e2d407e13ca5528504f"
+  integrity sha512-jGt9uI5BIxpVO15kvy+iEFqNAwxYClKWnkptLjSNPnFLC003Imd0ofr3aEVsbpHdSBdSsbcApNIlz4nbyGMwdA==
 
 dunder-proto@^1.0.1:
   version "1.0.1"
@@ -5578,12 +5573,12 @@ react-is@^19.1.0:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-19.1.0.tgz#805bce321546b7e14c084989c77022351bbdd11b"
   integrity sha512-Oe56aUPnkHyyDxxkvqtd7KkdQP5uIUfHxd5XTb3wE9d/kRnZLmKbDB0GWk919tdQ+mxxPtG6EAs6RMT6i1qtHg==
 
-react-native-dotenv@^4.1.1:
-  version "4.1.1"
-  resolved "https://registry.yarnpkg.com/react-native-dotenv/-/react-native-dotenv-4.1.1.tgz#010670826ce2759a8f11a536b279f033d10f32e3"
-  integrity sha512-Y7aMj6uFa/KJO7AFbUYGvr1YXYlFrVIC0HVhB+mFw2yGgtDrWvnfrpXP7LHX4Zh+xOwsnlZTHOoNrhv/uE9AcA==
+react-native-dotenv@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/react-native-dotenv/-/react-native-dotenv-5.0.0.tgz#9a6e0b35daf13ff5bcea3bd83a4c47fef61f51ac"
+  integrity sha512-y63fXkOvLSDNSEG0ylOZhYvQi5oyY/vHRU+z5iATABbkyifwoUebG88LyAteiaiVsepnFaAwycm2/bytGJ2uUw==
   dependencies:
-    dotenv "^17.4.2"
+    dotenv "^18.0.1"
 
 react-native-gesture-handler@~3.3.0:
   version "3.3.0"
