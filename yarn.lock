@@ -1524,10 +1524,10 @@
   resolved "https://registry.yarnpkg.com/@expo/dom-webview/-/dom-webview-57.0.1.tgz#e41e9ab9b691046c944ef2d0cd874cf316894097"
   integrity sha512-lAKsME4SAq+8sf56oN0DX5TBYyruupoRxbWbD2xf9RnKY8y6x8eb9LCE5pxSN0qyWdqnp+0wmyWzDkKboThKAw==
 
-"@expo/env@^2.4.3", "@expo/env@~2.5.0":
-  version "2.5.0"
-  resolved "https://registry.yarnpkg.com/@expo/env/-/env-2.5.0.tgz#6bc6c14a202ba6fb336ac9713f29c1885637aef0"
-  integrity sha512-WbMV1OKgCmGp/7qVeUFmiPMRBaj+oLLJw7Zl8xTxt6XM3jP2WCvJf2rq5Trps0h89SROc0zilnE1b/ssv6HsqA==
+"@expo/env@^2.4.3", "@expo/env@^2.5.1", "@expo/env@~2.5.0":
+  version "2.5.1"
+  resolved "https://registry.yarnpkg.com/@expo/env/-/env-2.5.1.tgz#eef1cdfbe6b285fafb5d759d2d6f9117d6a950d7"
+  integrity sha512-FXr7sJtusDKrrtfxenRdAwbqARTasYY1+3vL3FjnlvwiWzvItnSBRbcspF6AI45jIBLbi2GHDIAorzAXhmA1+Q==
   dependencies:
     chalk "^4.0.0"
     debug "^4.3.4"
@@ -1715,10 +1715,10 @@
     ora "^3.4.0"
     resolve-workspace-root "^2.0.0"
 
-"@expo/plist@^0.10.0":
-  version "0.10.0"
-  resolved "https://registry.yarnpkg.com/@expo/plist/-/plist-0.10.0.tgz#27084b009edb996256b0bae18c1de8df1e17124a"
-  integrity sha512-n+5ebW5yqGczlFW7woDGBhwW2ibQNXl5YaFzNe6cFXdSq/jPUzcc/o/ZgnLIvz/Vu84LM8946B+ctAT5PPgi6Q==
+"@expo/plist@^0.10.0", "@expo/plist@^0.10.1":
+  version "0.10.1"
+  resolved "https://registry.yarnpkg.com/@expo/plist/-/plist-0.10.1.tgz#d84f6e5462702dbb58fb18e5ab751afd86f5e09d"
+  integrity sha512-nuNOqj+r/hGJbZ1Ax3jUpZaOB8UAMHUrISALJEUKaCieTflYj7224EqFWmMpriCGk9wXS1gH+9GGVnSj0tWzuQ==
   dependencies:
     "@xmldom/xmldom" "^0.8.8"
     base64-js "^1.5.1"
@@ -2055,6 +2055,11 @@
   integrity sha512-ujc+V6r0HNDviYqIK3rW4ffgYiZ8g5DEHrGJVk4x7kTlLXRDILnKX9vAUYeIsLOoDpDJ0ujpqMkjH4w2ofuo6w==
   dependencies:
     "@radix-ui/react-compose-refs" "1.1.2"
+
+"@react-native/asset-utils@0.88.0-rc.3":
+  version "0.88.0-rc.3"
+  resolved "https://registry.yarnpkg.com/@react-native/asset-utils/-/asset-utils-0.88.0-rc.3.tgz#53d8a645492639bc879dea858147e7b066d123f9"
+  integrity sha512-G3P/3lF1bvZoT4Za87UiVJCpTNNF6c07sTNINXYiSxXDpPiM8piisgqdgueyy90cKH6ReL28y2S8glRiG+jkeQ==
 
 "@react-native/assets-registry@0.77.1":
   version "0.77.1"
@@ -3498,10 +3503,10 @@ expo-constants@~57.0.19:
   dependencies:
     "@expo/env" "~2.4.3"
 
-expo-eas-client@~58.0.0:
-  version "58.0.0"
-  resolved "https://registry.yarnpkg.com/expo-eas-client/-/expo-eas-client-58.0.0.tgz#9cffc6d9f1b9e69e6434940c98d9ccbea19c1615"
-  integrity sha512-++ZQtOtOsxyGlrgxuRMkbxCbl01RS/RYm7Flpnk2GO0VJxGMqY6nqEs+lEB8QNWZHqiJsSXLCcNhpKhEjtuxIQ==
+expo-eas-client@~58.0.2:
+  version "58.0.2"
+  resolved "https://registry.yarnpkg.com/expo-eas-client/-/expo-eas-client-58.0.2.tgz#765312be671aba4d9f8e0982a7acb5ae18ad3242"
+  integrity sha512-mhRYnE35MzGxR1Xnl9FAg7/yHaocy4xoVzgsDmS9cbK+1wM6l74/I/73/E4Kr6wChdVZfeS6S+Tv4I1qYbGY2g==
 
 expo-file-system@~57.0.7:
   version "57.0.7"
@@ -3515,10 +3520,10 @@ expo-font@^57.0.3, expo-font@~57.0.4:
   dependencies:
     fontfaceobserver "^2.1.0"
 
-expo-json-utils@~58.0.0:
-  version "58.0.0"
-  resolved "https://registry.yarnpkg.com/expo-json-utils/-/expo-json-utils-58.0.0.tgz#918facd03678d403496fe16935f13838a4db2568"
-  integrity sha512-BlSGQPZFtPXasGq8883CeJ6cPEBnCtCZ/dphTdBL6yFNNNZUx44zLhGdeeSwisLyiMlHnzE3Khz0qxPLh5FtSw==
+expo-json-utils@~58.0.1:
+  version "58.0.1"
+  resolved "https://registry.yarnpkg.com/expo-json-utils/-/expo-json-utils-58.0.1.tgz#8ed0287cb8c398cf185dbec9242865107119f972"
+  integrity sha512-jNHNElOUPz2/vW3CbDKRn6tTF6eE9wwVbh/Isnqp5c/CdTcONzFVR3YHN3WQ05PnkmieyEqVfeOusOd1X9FDtQ==
 
 expo-keep-awake@~57.0.2:
   version "57.0.2"
@@ -3533,12 +3538,12 @@ expo-linking@~57.0.11:
     expo-constants "~57.0.19"
     invariant "^2.2.4"
 
-expo-manifests@~58.0.0:
-  version "58.0.0"
-  resolved "https://registry.yarnpkg.com/expo-manifests/-/expo-manifests-58.0.0.tgz#8c1f58a92abde7e5f77fe62ccf44520fc4343b1f"
-  integrity sha512-JpWK8mhL2R11TNFV3Ov2IWv5eFzpMgauPq1Q+H9pruQ9wOFhDot3lf+JHA3jdQw5ww6/e5K9+x1E1SoMO/ZYyw==
+expo-manifests@~58.0.1:
+  version "58.0.1"
+  resolved "https://registry.yarnpkg.com/expo-manifests/-/expo-manifests-58.0.1.tgz#5686459056ab79b4f0c095ec2299c9329f35b8b0"
+  integrity sha512-fVeJJ71Fj8FJgcAUggn6QIsm7CTxsXFgekLl4pEPHgON6fmcxog63FGO0sisQ3F6yUWFR4nn8iJmgBp1Exs7ew==
   dependencies:
-    expo-json-utils "~58.0.0"
+    expo-json-utils "~58.0.1"
 
 expo-modules-autolinking@~57.0.13:
   version "57.0.13"
@@ -3603,31 +3608,33 @@ expo-status-bar@~57.0.1:
   resolved "https://registry.yarnpkg.com/expo-status-bar/-/expo-status-bar-57.0.1.tgz#0a8ec1657fcd0987f9612ca411a0c3d002f0eaf0"
   integrity sha512-Xwaq1gAoVRWx5dPG5VhT5RSbnI9OilhZnO5qoPBnUaBAa5VzRzfdS8q0/bsPt0jR2DKLtGuP0bQ6efMJ4RIMDg==
 
-expo-structured-headers@~58.0.0:
-  version "58.0.0"
-  resolved "https://registry.yarnpkg.com/expo-structured-headers/-/expo-structured-headers-58.0.0.tgz#b250c0a7c450bafe781179a577823aee46c031ca"
-  integrity sha512-XjxD/stb3a7b6Art1xpiAiq5hmB9kH2wKdCj2vmGRej/iKj2QAy0ykqCTaeOMiFATHJTiKw4eB6h8e5ZHSRbGw==
+expo-structured-headers@~58.0.1:
+  version "58.0.1"
+  resolved "https://registry.yarnpkg.com/expo-structured-headers/-/expo-structured-headers-58.0.1.tgz#fdb0d7aee13cf133da6e423bc2137d69b5b5ac63"
+  integrity sha512-wIduvAIUdGQk82osLjFiYYq3TFHUdG4RgmN+C//EySxn/2PTu0RsJsdgBtXrp/OT3YGeesNgfzb1mFxq5Zhp0g==
 
-expo-updates-interface@~58.0.0:
-  version "58.0.0"
-  resolved "https://registry.yarnpkg.com/expo-updates-interface/-/expo-updates-interface-58.0.0.tgz#4154efda04423ec6189b7f0ee586d5c583ddd0bb"
-  integrity sha512-zFh/g/UJIN1NzGQZeH7WAuM3pJ86teBXAU3V234oBjsIEJT4ckcis/IIhHjkWswQ2Li7kOBeRCdCxEYDPAcHbA==
+expo-updates-interface@~58.0.1:
+  version "58.0.1"
+  resolved "https://registry.yarnpkg.com/expo-updates-interface/-/expo-updates-interface-58.0.1.tgz#4ae8a38332e7f036ba45b3cb9ea865b5fd6552f2"
+  integrity sha512-OF+3BtMXtUsXWDfpHVNus9yHpx7WjMwjxDfeeN9LQBYSq/UtYmNNHBSfzChYTuqljWFSOAHRfsDykV9EB73Wlg==
 
-expo-updates@~58.0.8:
-  version "58.0.8"
-  resolved "https://registry.yarnpkg.com/expo-updates/-/expo-updates-58.0.8.tgz#52610173d2b044034af642de60b07d6a7b23cb22"
-  integrity sha512-WBFD4s1h6QOUr4OmYtrolD2XETthda4wcTkMCMFwsyFzh4CErvlv8jHW/uX3rHJlAEdkzcsP8yboIVUibAIW6A==
+expo-updates@~58.0.13:
+  version "58.0.13"
+  resolved "https://registry.yarnpkg.com/expo-updates/-/expo-updates-58.0.13.tgz#7f3b054fc303369a0e0b2f99bf498367c0095d0f"
+  integrity sha512-0WqK/tkFj966hD4ZpYtSbB63c1OYwWjtwE0KmEIo477f5x+fkgNGO7BOB28RgHatYqg+wtCLRKo0uJRVOujZsQ==
   dependencies:
     "@expo/code-signing-certificates" "^0.0.6"
-    "@expo/plist" "^0.10.0"
+    "@expo/env" "^2.5.1"
+    "@expo/plist" "^0.10.1"
     "@expo/spawn-async" "^1.8.0"
+    "@react-native/asset-utils" "0.88.0-rc.3"
     arg "^4.1.0"
     chalk "^4.1.2"
     debug "^4.3.4"
-    expo-eas-client "~58.0.0"
-    expo-manifests "~58.0.0"
-    expo-structured-headers "~58.0.0"
-    expo-updates-interface "~58.0.0"
+    expo-eas-client "~58.0.2"
+    expo-manifests "~58.0.1"
+    expo-structured-headers "~58.0.1"
+    expo-updates-interface "~58.0.1"
     getenv "^2.0.0"
     glob "^13.0.0"
     ignore "^5.3.1"
