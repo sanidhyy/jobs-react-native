@@ -1531,7 +1531,7 @@
   resolved "https://registry.yarnpkg.com/@expo/dom-webview/-/dom-webview-57.0.1.tgz#e41e9ab9b691046c944ef2d0cd874cf316894097"
   integrity sha512-lAKsME4SAq+8sf56oN0DX5TBYyruupoRxbWbD2xf9RnKY8y6x8eb9LCE5pxSN0qyWdqnp+0wmyWzDkKboThKAw==
 
-"@expo/env@^2.4.3", "@expo/env@^2.5.1", "@expo/env@~2.5.0":
+"@expo/env@^2.4.3", "@expo/env@^2.5.1", "@expo/env@~2.5.1":
   version "2.5.1"
   resolved "https://registry.yarnpkg.com/@expo/env/-/env-2.5.1.tgz#eef1cdfbe6b285fafb5d759d2d6f9117d6a950d7"
   integrity sha512-FXr7sJtusDKrrtfxenRdAwbqARTasYY1+3vL3FjnlvwiWzvItnSBRbcspF6AI45jIBLbi2GHDIAorzAXhmA1+Q==
@@ -1765,10 +1765,10 @@
     "@babel/core" "^7.25.2"
     "@babel/plugin-transform-modules-commonjs" "^7.24.8"
 
-"@expo/require-utils@^58.0.2":
-  version "58.0.2"
-  resolved "https://registry.yarnpkg.com/@expo/require-utils/-/require-utils-58.0.2.tgz#a2bb0689954e0d03879aa91a6c4e13197e609a3d"
-  integrity sha512-50w3h4s8eQze5L0PGfVAWGUWrT0ss9oHPa9INAIra43ScU+MP5s3b5qysvdv7mep9SgSX3+qdWIjcrOP5rNd+A==
+"@expo/require-utils@^58.0.2", "@expo/require-utils@^58.0.3":
+  version "58.0.3"
+  resolved "https://registry.yarnpkg.com/@expo/require-utils/-/require-utils-58.0.3.tgz#ca53332e345be0e379f1ac860fea9243a9bfade2"
+  integrity sha512-WsYe9AAB5dtGrA5zbVKDNsbhaTm9x7oPslBTwtdUPuV9TKTICO6IR01KtW2RtkmMU30A27AMr71t0/mHl9iXWg==
   dependencies:
     "@babel/code-frame" "^7.20.0"
     "@babel/core" "^7.25.2"
@@ -3501,12 +3501,13 @@ expo-asset@~57.0.18:
     "@expo/image-utils" "^0.11.5"
     expo-constants "~57.0.19"
 
-expo-constants@^58.0.3:
-  version "58.0.3"
-  resolved "https://registry.yarnpkg.com/expo-constants/-/expo-constants-58.0.3.tgz#7c2b6c7a7633a23e13a9ac248f043882e1bdb042"
-  integrity sha512-wY5bq+3aaY8jXBs288EceS5pfWg27L2AI/TigGW7Fc9vP1P1OQL2WUhmNDLh1p0fibf/BvdcjFTRLTSq+ly4ZQ==
+expo-constants@^58.0.10:
+  version "58.0.10"
+  resolved "https://registry.yarnpkg.com/expo-constants/-/expo-constants-58.0.10.tgz#1b0049842522d69f153bba7d665aa175510e6bba"
+  integrity sha512-5Gf/xZov/y4TBNi7rMyV9AUisPlR6bdCOR4oXV85st4U8YGjZGRbSIGbojV3C8pFuy3ytZjcgq2N735vcOUsig==
   dependencies:
-    "@expo/env" "~2.5.0"
+    "@expo/env" "~2.5.1"
+    "@expo/require-utils" "^58.0.3"
 
 expo-constants@~57.0.19:
   version "57.0.19"
