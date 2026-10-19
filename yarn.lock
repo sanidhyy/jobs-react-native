@@ -1515,7 +1515,7 @@
   resolved "https://registry.yarnpkg.com/@expo/dom-webview/-/dom-webview-58.0.2.tgz#f90a43ebc4647bb42a40fd4c080c39f1e689e760"
   integrity sha512-bLkREoP7qL3rEuzxP60xG+TjdPoGjbnZfxkvYo5imJxGWfKMOf7x962W06Pu+WWAr4gcDRk16iA+Clg8D0zjCg==
 
-"@expo/env@^2.5.1", "@expo/env@^2.5.2", "@expo/env@~2.5.1":
+"@expo/env@^2.5.1", "@expo/env@^2.5.2", "@expo/env@~2.5.1", "@expo/env@~2.5.2":
   version "2.5.2"
   resolved "https://registry.yarnpkg.com/@expo/env/-/env-2.5.2.tgz#0ab8ab97e76d699f55abb548926481295f2e312c"
   integrity sha512-z8kCvBVJpd2S20a+Ab1otQgz8sJLeR7CXDTsuAMcNbYFsK10Fdhfb7rx9Ys1vvlbijnY55eZhQvJACajc1IjBQ==
@@ -1721,16 +1721,7 @@
     resolve-from "^5.0.0"
     semver "^7.7.4"
 
-"@expo/require-utils@^58.0.3":
-  version "58.0.3"
-  resolved "https://registry.yarnpkg.com/@expo/require-utils/-/require-utils-58.0.3.tgz#ca53332e345be0e379f1ac860fea9243a9bfade2"
-  integrity sha512-WsYe9AAB5dtGrA5zbVKDNsbhaTm9x7oPslBTwtdUPuV9TKTICO6IR01KtW2RtkmMU30A27AMr71t0/mHl9iXWg==
-  dependencies:
-    "@babel/code-frame" "^7.20.0"
-    "@babel/core" "^7.25.2"
-    "@babel/plugin-transform-modules-commonjs" "^7.24.8"
-
-"@expo/require-utils@^58.0.4":
+"@expo/require-utils@^58.0.3", "@expo/require-utils@^58.0.4":
   version "58.0.4"
   resolved "https://registry.yarnpkg.com/@expo/require-utils/-/require-utils-58.0.4.tgz#e9548b7004ba14d948b2d2e8bf41e93b34777233"
   integrity sha512-DvjS5NCitXYcad2Woe1EMHJKcbhTbE77HX0BgOQGL2LFHE3q2H0n8kCWDPBOCVJ63Drap3c35nwoJwF5TQL7Tw==
@@ -3517,13 +3508,13 @@ expo-asset@~58.0.13:
     "@expo/image-utils" "^0.12.4"
     expo-constants "~58.0.10"
 
-expo-constants@^58.0.10, expo-constants@~58.0.10:
-  version "58.0.10"
-  resolved "https://registry.yarnpkg.com/expo-constants/-/expo-constants-58.0.10.tgz#1b0049842522d69f153bba7d665aa175510e6bba"
-  integrity sha512-5Gf/xZov/y4TBNi7rMyV9AUisPlR6bdCOR4oXV85st4U8YGjZGRbSIGbojV3C8pFuy3ytZjcgq2N735vcOUsig==
+expo-constants@^58.0.12, expo-constants@~58.0.10:
+  version "58.0.12"
+  resolved "https://registry.yarnpkg.com/expo-constants/-/expo-constants-58.0.12.tgz#770aa72bd5c518baed2090730b9585005231a4e5"
+  integrity sha512-d3/dsps32nU4m6YJQbXQ1dIfn58GxfmJjTnZ0WtnhdSHTdG/oVsOakLqYRlX/FaLUKkQOSHXMf7hyCx+2a/HSQ==
   dependencies:
-    "@expo/env" "~2.5.1"
-    "@expo/require-utils" "^58.0.3"
+    "@expo/env" "~2.5.2"
+    "@expo/require-utils" "^58.0.4"
 
 expo-constants@~57.0.19:
   version "57.0.19"
