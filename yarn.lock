@@ -3542,17 +3542,10 @@ expo-file-system@~58.0.8:
   resolved "https://registry.yarnpkg.com/expo-file-system/-/expo-file-system-58.0.8.tgz#3e1ad4e7e200837923f1abc6514d68ec9916d015"
   integrity sha512-6UQhr4O8vb1w70wADMwOs+PFR754wbrkz8AYxH9r512sQc7NllOgNQytrk9o3zobs7vaJAlkcpEo66Cn1x9T9w==
 
-expo-font@^57.0.3:
-  version "57.0.4"
-  resolved "https://registry.yarnpkg.com/expo-font/-/expo-font-57.0.4.tgz#ccd67dd2ee3168510a1a2453a5a8b8fd7f8a5fe4"
-  integrity sha512-7WOMC2oA6xCfOm8bbofqWn2bIqyWFm7YLEnpc/gA1MJH0Ll0TfT/3+CqRkoW2eNRWMS8sxrz5WukUmSvmNquHA==
-  dependencies:
-    fontfaceobserver "^2.1.0"
-
-expo-font@~58.0.7:
-  version "58.0.7"
-  resolved "https://registry.yarnpkg.com/expo-font/-/expo-font-58.0.7.tgz#897276ceaadaa00909caf5f6769313b9db1bb160"
-  integrity sha512-zTGIZHOblyeN/eoMYodTpp1YT4GFPIj2R5SYKDSEyHcxcQnRNWUYHGaLFH6UOQdvTPC5MmjUo0sllcZJq/TtNQ==
+expo-font@^58.0.8, expo-font@~58.0.7:
+  version "58.0.8"
+  resolved "https://registry.yarnpkg.com/expo-font/-/expo-font-58.0.8.tgz#c33fb006f82a61c30088ac6f431ac75e99681e25"
+  integrity sha512-i9HKj/ljdmmjLamYQEkI4wXJB9+ap7AG5CpCqK/bgwwy45y5T8+1lpNbYgRXE7aQgmDjPpzd09wX6dOZkHfrxg==
 
 expo-json-utils@~58.0.1:
   version "58.0.1"
@@ -3858,11 +3851,6 @@ follow-redirects@^1.16.0:
   version "1.16.0"
   resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.16.0.tgz#28474a159d3b9d11ef62050a14ed60e4df6d61bc"
   integrity sha512-y5rN/uOsadFT/JfYwhxRS5R7Qce+g3zG97+JrtFZlC9klX/W5hD7iiLzScI4nZqUS7DNUdhPgw4xI8W2LuXlUw==
-
-fontfaceobserver@^2.1.0:
-  version "2.3.0"
-  resolved "https://registry.yarnpkg.com/fontfaceobserver/-/fontfaceobserver-2.3.0.tgz#5fb392116e75d5024b7ec8e4f2ce92106d1488c8"
-  integrity sha512-6FPvD/IVyT4ZlNe7Wcn5Fb/4ChigpucKYSvD6a+0iMoLn2inpo711eyIcKjmDtE5XNcgAkSH9uN/nfAeZzHEfg==
 
 form-data@^4.0.6:
   version "4.0.6"
