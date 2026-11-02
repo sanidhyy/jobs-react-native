@@ -3533,10 +3533,10 @@ expo-file-system@~58.0.8:
   resolved "https://registry.yarnpkg.com/expo-file-system/-/expo-file-system-58.0.8.tgz#3e1ad4e7e200837923f1abc6514d68ec9916d015"
   integrity sha512-6UQhr4O8vb1w70wADMwOs+PFR754wbrkz8AYxH9r512sQc7NllOgNQytrk9o3zobs7vaJAlkcpEo66Cn1x9T9w==
 
-expo-font@^58.0.8, expo-font@~58.0.7:
-  version "58.0.8"
-  resolved "https://registry.yarnpkg.com/expo-font/-/expo-font-58.0.8.tgz#c33fb006f82a61c30088ac6f431ac75e99681e25"
-  integrity sha512-i9HKj/ljdmmjLamYQEkI4wXJB9+ap7AG5CpCqK/bgwwy45y5T8+1lpNbYgRXE7aQgmDjPpzd09wX6dOZkHfrxg==
+expo-font@^58.0.11, expo-font@~58.0.7:
+  version "58.0.11"
+  resolved "https://registry.yarnpkg.com/expo-font/-/expo-font-58.0.11.tgz#03378f05616d59d0385a2e07ba46102cb575b95a"
+  integrity sha512-6r7s6xk2L2orvum+x+TY1fzEcMtuCBRQTLgC/Su2uLzNPpT4L+E+S4IAGy8ZIjeVvwk2j2pj+HiZ23O7eh1PGQ==
 
 expo-json-utils@~58.0.1:
   version "58.0.1"
